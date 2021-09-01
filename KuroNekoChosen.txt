@@ -1,4 +1,5 @@
 title:KuroNeko Chosen
+description:Season of the Chosen
 
 // The Deicide - PvP (god-pvp)
 dimwishlist:item=217140611&perks=1047830412,1087426260,3161816588,2679249093
