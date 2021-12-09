@@ -2,6 +2,7 @@ title:30th Anniversary
 description:Weapon rolls for 30th Anniversary legendaries
 
 // Eyasluna - TheGamer PvE (pve)
+//notes:[MW:Handling]|tags:pve
 dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,124408337
 dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,3523296417
 dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,1015611457
@@ -21,6 +22,7 @@ dimwishlist:item=235827225&perks=1926090095,1968497646,1428297954,588594999
 
 
 // Eyasluna - TheGamer PvP (pvp)
+//notes:[MW:Handling]|tags:pvp
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,3523296417
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,1015611457
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
@@ -50,6 +52,7 @@ dimwishlist:item=548958835&perks=4090651448,732557052,2450788523,3523296417
 
 
 // Wastelander M5 - TheGamer PvE (pve)
+//notes:[Melee focused build preferred]|tags:pve
 dimwishlist:item=1679868061&perks=1332244541,791862061,1428297954,2360754333
 dimwishlist:item=1679868061&perks=1332244541,791862061,1428297954,2679249093
 dimwishlist:item=1679868061&perks=1332244541,791862061,1820235745,2360754333
@@ -63,6 +66,7 @@ dimwishlist:item=1679868061&perks=1332244541,791862061,2621346526,2679249093
 
 
 // Wastelander M5 - TheGamer PvP (pvp)
+//notes:[Set to out-range Riiswalker, Harmony for consistency, Opening Shot for accuracy]|tags:pvp
 dimwishlist:item=1679868061&perks=1332244541,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=1332244541,3142289711,3161816588,438098033
 
@@ -82,11 +86,13 @@ dimwishlist:item=2139640995&perks=3666208348,3625355092,2590710093,354401740
 
 
 // Matador 64 - TheGamer PvE (pve)
+//notes:[Compare to Fractethyst]|tags:pve
 dimwishlist:item=2563012876&perks=1332244541,791862061,1428297954,2610012052
 dimwishlist:item=2563012876&perks=1332244541,791862061,4071163871,2610012052
 
 
 // Matador 64 - TheGamer PvP (pvp)
+//notes:[Compare to Fractethyst, slightly prefer Perpetual Motion over Threat Detector]|tags:pve
 dimwishlist:item=2563012876&perks=1332244541,3142289711,1428297954,47981717
 dimwishlist:item=2563012876&perks=1332244541,3142289711,4071163871,47981717
 
@@ -120,6 +126,7 @@ dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,454085387
 
 
 // Half-Truths - TheGamer PvE (pve)
+//notes:[Whirlwind would be best in column 3, did not show up in WishList]|tags:pve
 dimwishlist:item=3257091166&perks=3666208348,269888150,3705817207,438098033
 dimwishlist:item=3257091166&perks=3666208348,269888150,3705817207,2077819806
 dimwishlist:item=3257091166&perks=3666208348,269888150,1749209109,438098033
@@ -135,21 +142,25 @@ dimwishlist:item=3257091166&perks=3666208348,52780822,2590710093,2077819806
 
 
 // The Other Half - TheGamer PvE (pve)
+//notes:[No really BAD rolls]|tags:pve
 dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,1546637391
 
 
 // The Other Half - TheGamer PvP (pvp)
+//notes:[No really BAD rolls]|tags:pvp
 dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,1546637391
 
 
 // Pardon Our Dust - TheGamer PvE (pve)
+//notes:[No bad options in column 4]|tags:pve
 dimwishlist:item=3849810018&perks=3798852852,3301904089,1428297954
 dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228
 dimwishlist:item=3849810018&perks=3798852852,3301904089,2010801679
 
 
 // Pardon Our Dust - TheGamer PvP (pvp)
+//notes:[No bad options in column 4]|tags:pvp
 dimwishlist:item=3849810018&perks=1478423395,409831596,1428297954
 dimwishlist:item=3849810018&perks=1478423395,409831596,3300816228
 dimwishlist:item=3849810018&perks=1478423395,409831596,2010801679
